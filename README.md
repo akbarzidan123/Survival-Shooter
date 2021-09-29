@@ -11,3 +11,5 @@ S > Jalan Kebawah
 D > Jalan ke kanan
 
 Left Klick > Shoot
+
+Folder build terdapat pada fitur Release
